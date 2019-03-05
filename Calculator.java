@@ -5,4 +5,8 @@ public class Calculator
 		System.out.println("Hello World!!!");
 		System.out.println("Calculatir program");
 	}
+	public static void square(int number1,int number2)
+	{
+		System.out.println("Square=" +(number1*number1));
+	}
 }
